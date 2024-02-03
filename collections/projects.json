@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Website Komodobajotour.com",
+    "description": "Company Profile PT. Nuca Molas Komodo",
+    "image": "/assets/images/projects/komodobajo.jpg",
+    "url": "https://komodobajotour.com/"
+  },
+  {
+    "name": "Website Ketambetourtravel.com",
+    "description": "Company Profile PT. Ketambe Tour And Travel",
+    "image": "/assets/images/projects/ketambe.jpg",
+    "url": "https://www.ketambetourtravel.com/"
+  },
+  {
+    "name": "Webiste Data Analytical Center",
+    "description": "Website Kompetisi IIDEX 2023",
+    "image": "/assets/images/projects/dac.jpg",
+    "url": "https://dataanalyticalcenter.com/"
+  },
+  {
+    "name": "Website KPLK",
+    "description": "Website ini sedang tahap pengerjaan",
+    "image": "/assets/images/projects/kplk.jpg",
+    "url": "https://donasi.dataanalyticalcenter.com/"
+  },
+  {
+    "name": "Sistem Stok",
+    "description": "Sistem Stok barang hasil kerja Praktik di BNI Musi Palembang",
+    "image": "/assets/images/projects/bni.jpg",
+    "url": "https://bni.dataanalyticalcenter.com/"
+  }
+]

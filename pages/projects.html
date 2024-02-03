@@ -1,0 +1,15 @@
+<layout src="main.html" title="My Projects">
+  <section class="relative z-20 max-w-2xl mx-auto my-12 px-7 lg:px-0">
+    <include
+      src="page-heading.html"
+      title="Projects Saya"
+      description="Berikut adalah beberapa proyek yang sedang saya kerjakan. Saya sangat menikmati membuat proyek baru dan memunculkan ide-ide baru. Saya selalu mengerjakan sesuatu yang baru, jadi sering-seringlah memeriksanya kembali!"
+    ></include>
+
+    <div class="z-50 grid items-stretch w-full grid-cols-1 my-8 gap-7 sm:gap-5 sm:grid-cols-2">
+      <ForEach collection="projects">
+        <include src="project.html" name="{projects.name}" description="{projects.description}" image="{projects.image}" url="{projects.url}"></include>
+      </ForEach>
+    </div>
+  </section>
+</layout>
